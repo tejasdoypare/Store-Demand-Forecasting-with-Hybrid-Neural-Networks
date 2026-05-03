@@ -1,0 +1,21 @@
+# Data and generated outputs
+/data/
+/output/
+
+# Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
